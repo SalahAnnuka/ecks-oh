@@ -32,7 +32,9 @@ body{
     background-size: cover;
     width: 100%;
     border-style: solid;
+    text-align: center;
 }
+
 #item1{
     background-position: center;
     background-size: cover;
