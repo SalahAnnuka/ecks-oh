@@ -5,6 +5,9 @@
 }
 
 .item{
-    background-color:aqua;
+    background-image:url("images/circle.jpg");
+    background-position: center;
+    background-size: cover;
     width: 100px;
+
 }
