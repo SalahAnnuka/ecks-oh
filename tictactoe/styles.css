@@ -19,52 +19,69 @@ body{
 
 .grid{
     display: grid;
-    grid-template-columns: repeat(3,50px);
-    grid-template-rows: repeat(3,50px);
+    grid-template-columns: repeat(3,200px);
+    grid-template-rows: repeat(3,200px);
     justify-items:center;
 
 }
 
 .item{
-    background-image:url("images/circle.jpg");
     background-position: center;
     background-size: cover;
     width: 100%;
     border-style: solid;
 }
 #item1{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
     border-top:0;
     border-left:0;
 }
 #item2{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
     border-top:0;
 }
 #item3{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
     border-top:0;
     border-right: 0;
 }
 #item4{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
     border-left:0;
 }
 #item5{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
 }
 #item6{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
     border-right:0;
 }
 #item7{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
     border-left:0;
 }
 #item8{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
 }
 #item9{
+    background-position: center;
+    background-size: cover;
     border-bottom:0;
     border-right:0;
 }
