@@ -9,5 +9,41 @@
     background-position: center;
     background-size: cover;
     width: 100px;
-
+    border-style: solid;
+}
+#item1{
+    border-bottom:0;
+    border-top:0;
+    border-left:0;
+}
+#item2{
+    border-bottom:0;
+    border-top:0;
+}
+#item3{
+    border-bottom:0;
+    border-top:0;
+    border-right: 0;
+}
+#item4{
+    border-bottom:0;
+    border-left:0;
+}
+#item5{
+    border-bottom:0;
+}
+#item6{
+    border-bottom:0;
+    border-right:0;
+}
+#item7{
+    border-bottom:0;
+    border-left:0;
+}
+#item8{
+    border-bottom:0;
+}
+#item9{
+    border-bottom:0;
+    border-right:0;
 }
