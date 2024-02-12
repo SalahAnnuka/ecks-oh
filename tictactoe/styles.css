@@ -37,12 +37,14 @@ body{
     border-bottom:0;
     border-top:0;
     border-left:0;
+    border-right:0;
 }
 #item2{
     background-position: center;
     background-size: cover;
     border-bottom:0;
     border-top:0;
+    border-right:0;
 }
 #item3{
     background-position: center;
@@ -56,11 +58,13 @@ body{
     background-size: cover;
     border-bottom:0;
     border-left:0;
+    border-right:0;
 }
 #item5{
     background-position: center;
     background-size: cover;
     border-bottom:0;
+    border-right:0;
 }
 #item6{
     background-position: center;
@@ -73,11 +77,13 @@ body{
     background-size: cover;
     border-bottom:0;
     border-left:0;
+    border-right:0;
 }
 #item8{
     background-position: center;
     background-size: cover;
     border-bottom:0;
+    border-right:0;
 }
 #item9{
     background-position: center;
